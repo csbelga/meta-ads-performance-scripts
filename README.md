@@ -25,6 +25,7 @@ A versão em Python do mesmo monitor está disponível como alternativa em `src/
 
 ## Estrutura do repositório
 
+```
 .
 ├── README.md
 ├── LICENSE
@@ -35,7 +36,8 @@ A versão em Python do mesmo monitor está disponível como alternativa em `src/
 │   ├── cpl_monitor.gs        # Versão Google Apps Script
 │   └── meta_ads_audit.py     # Versão Python equivalente
 └── docs/
-└── arquitetura.md
+    └── arquitetura.md
+```
 
 ## Como usar
 
